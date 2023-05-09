@@ -1,5 +1,5 @@
 gevent==1.2.1
-redis==2.10.5
+redis==4.4.4
 hiredis==0.2.0
 py_lru_cache==0.1.4
 Django==1.11.21
